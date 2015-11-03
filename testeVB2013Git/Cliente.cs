@@ -10,5 +10,7 @@ namespace testeVB2013Git
     {
         public string nome;
         public string telefone;
+
+        public int numero;
     }
 }
