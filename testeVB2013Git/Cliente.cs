@@ -9,8 +9,7 @@ namespace testeVB2013Git
     class Cliente
     {
         public string nome;
-        public string telefone;
-        public string telefone;
+        public string telefone;        
 
         public int numero;
     }
