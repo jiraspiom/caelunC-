@@ -11,6 +11,8 @@ namespace testeVB2013Git
         public int numero;
         public double saldo;
 
+        public Cliente titular;
+
         public void Sacar(double valor)
         {
             this.saldo -= valor;
